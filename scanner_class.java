@@ -10,7 +10,7 @@ public class scanner_class {
         int num = scanner.nextInt();
         System.out.println("Name: " +name+ " ID: " +num);
         System.out.println("Data added succesfully");
-        
+        scanner.close(); 
     }
 }
 // The scanner object: Scanner scanner = new Scanner(System.in); sets up the scanner to read input from the user.

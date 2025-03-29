@@ -13,6 +13,6 @@ public class demo{
         else {
             System.out.println("Incorrect... try again");
         }
-
+        scanner.close();
     }
 }

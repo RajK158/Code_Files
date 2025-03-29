@@ -13,5 +13,6 @@ public class quiz{
         else {
             System.out.println("Incorrect... try again");
         }
+        scanner.close();
     }    
     }
