@@ -7,7 +7,7 @@ public class card {
         for (c=1;c<=52;c++){
             System.out.println("Card no: "+c);
             if (c==32){
-                System.out.println("Card "+c+" is from another deck!");
+                System.out.println("Card "+c+" is from the another deck!");
                 break;
                
             }
