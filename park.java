@@ -8,7 +8,7 @@
 // Otherwise, “Sorry, You can't ride today.” 😞
 
 public class park {
-    public static void main(String[] arhs){
+    public static void main(String[] args){
         int height = 175;
         float weight = 65;
         if (height >= 120 && weight >= 40){
